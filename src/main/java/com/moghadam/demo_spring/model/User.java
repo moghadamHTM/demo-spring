@@ -1,4 +1,4 @@
-package com.moghadam.demo_spring;
+package com.moghadam.demo_spring.model;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

@@ -1,5 +1,6 @@
-package com.moghadam.demo_spring;
+package com.moghadam.demo_spring.repository;
 
+import com.moghadam.demo_spring.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
